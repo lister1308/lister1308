@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @lister1308
 - 👀 I’m interested in learning a new language
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python, ansible and kubernetes
 
 <!---
 lister1308/lister1308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
