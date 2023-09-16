@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lister1308
-- 👀 I’m interested in learning a new language
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning python, ansible and kubernetes
 
 <!---
